@@ -2,6 +2,9 @@
 
 This SSIS package captures change logs for a table from SQL Server and pushes them to azure event hub
 
+1. SSISCDC -- Package to push initial data from table to event hub
+2. CDCIncrementalLoad -- Package for  to push subsequent changes (Insert/Update/Delete) to event hub
+
 #Assumptions
 1. CDC is enabled for the table
 2. Azure Event Hub is created in azure portal
