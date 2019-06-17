@@ -7,6 +7,9 @@ This SSIS package captures change logs for a table from SQL Server and pushes th
 2. Azure Event Hub is created in azure portal
 
 #Useful Links
+
 https://www.red-gate.com/simple-talk/sql/learn-sql-server/introduction-to-change-data-capture-cdc-in-sql-server-2008/
+
 https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-create
+
 https://www.mattmasson.com/2011/12/cdc-in-ssis-for-sql-server-2012-2/
