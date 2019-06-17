@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CDC_InitialLoad", "SSISCDC\CDC_InitialLoad.dtproj", "{117FEF1D-870C-45EA-8F47-30F574D530AA}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CDCIncrementalLoad", "CDCIncrementalLoad\CDCIncrementalLoad.dtproj", "{D97D21C7-7FF5-4FF6-AA86-25B9C1E2CDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117FEF1D-870C-45EA-8F47-30F574D530AA}.Development|Default.ActiveCfg = Development
+		{117FEF1D-870C-45EA-8F47-30F574D530AA}.Development|Default.Build.0 = Development
+		{D97D21C7-7FF5-4FF6-AA86-25B9C1E2CDAE}.Development|Default.ActiveCfg = Development
+		{D97D21C7-7FF5-4FF6-AA86-25B9C1E2CDAE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
